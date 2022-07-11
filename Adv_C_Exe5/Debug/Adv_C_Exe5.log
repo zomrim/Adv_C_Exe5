@@ -1,0 +1,8 @@
+﻿  BST.c
+C:\Users\Omrih\source\repos\Adv_C_Exe5\Adv_C_Exe5\BST.c(15,39): warning C4013: 'malloc' undefined; assuming extern returning int
+C:\Users\Omrih\source\repos\Adv_C_Exe5\Adv_C_Exe5\BST.c(16,2): warning C4013: 'exit' undefined; assuming extern returning int
+C:\Users\Omrih\source\repos\Adv_C_Exe5\Adv_C_Exe5\BST.c(56,7): warning C4013: 'free' undefined; assuming extern returning int
+  main.c
+  Generating Code...
+C:\Users\Omrih\source\repos\Adv_C_Exe5\Adv_C_Exe5\BST.c(71): warning C4716: 'findIndexNFromLast': must return a value
+  Adv_C_Exe5.vcxproj -> C:\Users\Omrih\source\repos\Adv_C_Exe5\Debug\Adv_C_Exe5.exe
